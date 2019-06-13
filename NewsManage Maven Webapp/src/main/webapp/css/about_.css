@@ -1,0 +1,39 @@
+.login{
+    height: 400px;
+}
+/* 两个输入框的css，border属性设置边框线粗细以及颜色，border-radius设置边框的圆角角度 */
+input{
+    padding:10px;
+    width:100%;
+    color:white;
+    margin-top: 30px;
+    margin-bottom:10px;
+    margin-left: 300px;
+    margin-right:1100px;
+    background-color:lightblue;
+    border: 1px solid black;
+    border-radius:4px;
+    letter-spacing:2px;
+    width:300px;
+    height:50px;
+}
+/* 登录按钮的css，cursor:pointer当鼠标移到按钮上面时变成小手形状 */
+form button{
+    width:100%;
+    padding:10px;
+    background-color:lightpink;
+    border:1px solid black;
+    border-radius:4px;
+    cursor:pointer; 
+    margin-top: 30px;
+    margin-left: 500px;
+    width:100px;
+    height:50px; 
+}                     
+.login p a{
+	margin-top:30px;
+    margin-left: 300px;
+    font-size: 18px;
+    font-weight: 700px;
+    color:red;
+}

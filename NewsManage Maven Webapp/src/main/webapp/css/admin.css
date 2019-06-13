@@ -1,0 +1,20 @@
+.center_first{
+	border:1px solid lightgray;
+	height:450px;
+}
+.page{
+	margin-left: 32%;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.input_text{
+	height:30px;
+	width:400px;
+	margin-bottom:10px;
+}
+.button{
+	height:30px;
+	width:40px;
+	font-size: 15px;
+	background-color: lightpink;
+}
